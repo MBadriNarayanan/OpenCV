@@ -1,2 +1,2 @@
 # OpenCV
-Course offered by Udemy. Created and taught by Jose Portilla
+Course offered by Udemy. Created and taught by Jose Portilla.
